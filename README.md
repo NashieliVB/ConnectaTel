@@ -1,7 +1,7 @@
 ConnectaTel – Sprint 7
 Este repositorio contiene el análisis realizado durante el Sprint 7 del caso sobre una compañía de telecomunicaciones con presencia en México y Colombia.
 
-El conjunto de datos S7 Version-Estudiante-Project-ConnectaTel incluye tres datafreme, uno llamado users con 8 columnas y 4000 entradas , y un segundo dataframe llamado usage con 6 columnas y 40000 entradas, y un tercero llamado plans con 8 columnas columnas y 2 entradas.
+El conjunto de datos S7 Version-Estudiante-Project-ConnectaTel incluye tres datafreme, uno llamado `users` con 8 columnas y 4000 entradas , y un segundo dataframe llamado `usage` con 6 columnas y 40000 entradas, y un tercero llamado `plans` con 8 columnas columnas y 2 entradas.
 
 📂 Contenido del repositorio
 notebooks/S7 Version-Estudiante-Project-ConnectaTel → Cuaderno principal con limpieza, histograma, valores atípicos y conclusiones.
